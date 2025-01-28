@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samo133
-- 👀 I’m interested in AI/Deep Neural Network
-- 🌱 I’m currently learning SNN / Robots simulation
+- 👀 I’m interested in AI/Deep Neural Network/ML
+- 🌱 I’m currently learning MlOps/DevOPs
 - 💞️ I’m looking to collaborate on open AI project
 - 📫 How to reach me https://www.linkedin.com/in/osama-m-abdelaal-m-phil-5aa7ba1b3/
 
