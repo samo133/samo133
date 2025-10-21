@@ -5,7 +5,7 @@
 
 <!-- Header / Hero -->
 <div align="center">
-  <h1>Hi, I'm Osama Abdelaal 👋</h1>
+  <h1>Hi, I'm Osama Mohamed 👋</h1>
   <p><em>ALX ProDev Backend learner • Aspiring Backend Architect • AI-infused product builder</em></p>
 
   <!-- Badges (replace username/project placeholders) -->
@@ -20,7 +20,7 @@
 
 ## 🔭 About Me
 <p>
-I’m training as a backend engineer through the <strong>ALX ProDev Backend</strong> program. I started software engineering because <strong>[insert why you started]</strong>. I'm passionate about building reliable, scalable backends and integrating AI to create smarter products. My goal is to ship deployable, production-quality systems and eventually launch my product or pursue a PhD in deployable AI systems.
+I’m training as a backend engineer through the ALX ProDev Backend program. I started software engineering because I’m passionate about merging artificial intelligence with software engineering to create smarter, more adaptive, and user-centered products. I’m driven by the idea of transforming complex systems into intelligent, deployable solutions that learn and evolve. My goal is to ship production-quality systems that combine scalability with intelligence — and eventually, to either launch my own AI-driven product on deployable AI systems.
 </p>
 
 ---
@@ -50,10 +50,7 @@ I’m training as a backend engineer through the <strong>ALX ProDev Backend</str
 
 - **AirBnB Clone Backend** — `Django + DRF` backend for property listings, bookings, payments; includes Celery, Redis, and Docker.  
   _Repo:_ `github.com/yourusername/airbnb-clone-backend`  
-- **Project B** — short one-liner about what it demonstrates (e.g., async pipelines / performance tuning).  
-  _Repo:_ `github.com/yourusername/project-b`  
-
-> Tip: Use the pinned repositories feature on your profile to showcase these.
+ 
 
 ---
 
@@ -76,7 +73,6 @@ I’m training as a backend engineer through the <strong>ALX ProDev Backend</str
 - FastAPI / DRF docs — essential for APIs  
 - Use-the-Index-Luke — SQL & indexing  
 - System Design Primer — architecture patterns  
-*(Add links to notes, blog posts, or notebooks in your repos or Notion)*
 
 ---
 
@@ -87,9 +83,7 @@ I’m training as a backend engineer through the <strong>ALX ProDev Backend</str
 ---
 
 ## 📫 Contact
-- <strong>Email:</strong> your.email@example.com  
-- <strong>LinkedIn:</strong> https://www.linkedin.com/in/osama1339669/  
-- <strong>Website / Portfolio:</strong> (optional) add link
+- <strong>Email:</strong> osama1339669@gmail.com 
 
 ---
 
@@ -101,40 +95,4 @@ I’m training as a backend engineer through the <strong>ALX ProDev Backend</str
 
 ---
 
-## ⚡ Quick Wins to Make Profile Stand Out
-1. Pin the 3 best repos (AirBnB Clone, one infra project, one AI-integration project).  
-2. Add well-written README’s to each repo with a demo GIF and architecture diagram.  
-3. Include a short video (1–2 min) in the project README where you walk through the project — plays to your auditory strength.  
-4. Keep weekly commits and use GitHub Actions to run tests (showing activity + maturity).
-
----
-
-## 🔧 HTML Snippet (if you want a card-style bio at the top)
-<!-- Paste this HTML at the top if you want a visually boxed intro (GitHub supports basic HTML in Markdown) -->
-<div style="border-left: 4px solid #6f42c1; padding: 12px; margin-bottom: 16px;">
-  <strong>ALX ProDev Backend • Backend Architect in training</strong><br/>
-  Building production-ready backends with AI features. Open to roles in backend engineering and collaborations on AI product ideas.
-</div>
-
----
-
-### ✅ Next step — personalization
-I can make this README uniquely yours (voice, tone, exact wording, links, project thumbnails, GIFs, video intros).  
-
-**Quick list of things I need from you to personalize it right away:**
-1. Exact display name and preferred short bio line.  
-2. A 1–2 sentence personal motivation to replace `[insert why you started]`.  
-3. Links to 2–4 repos you want highlighted (or confirm placeholders).  
-4. Preferred contact email and any other socials you want shown.  
-5. If you have a short intro video or demo GIF (or want me to draft a script for the video).
-
-Would you like me to:  
-- (A) personalize the README now using your answers, **or**  
-- (B) generate ready-to-paste README + repo README templates (for each highlighted project) and a short video script for the 1–2 minute walkthrough?
-
----
-
-**My quick opinion:** This template will position you strongly — it emphasizes architecture thinking, learning trajectory, and product intent (which recruiters and hiring managers appreciate). The auditory-angle suggestion (video walkthroughs / voice recaps) is a high-leverage differentiator for you.
-
-What do you want me to do next to make this README truly yours?
 ::contentReference[oaicite:0]{index=0}
